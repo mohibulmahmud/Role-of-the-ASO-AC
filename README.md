@@ -43,6 +43,10 @@ The ASO is essentially equivalent to the NRO (Number Resource Organization). The
 - **NRO NC / ASO AC**: The NRO Number Council (NRO NC) members are appointed or elected within each RIR region. They serve on the ASO AC. This council is responsible for the global policy development process, appointing two directors to the ICANN Board, and appointing one member to the ICANN Nomination Committee.
 - **NRO EC**: The NRO Executive Council (NRO EC) is composed of the CEOs or executive heads of the five RIRs. This council collaborates with ICANN, making unanimous decisions and ensuring the completion of required tasks. For example, the NRO EC reviews and approves new procedures or requests changes as necessary.
 
+![image](https://github.com/user-attachments/assets/0b42b0fa-8a4a-44e7-a620-a787496be6ee)
+
+
+
 ## Global Policy Development
 
 Global policy development is critical for the management and issuance of Internet resources such as IPv4 addresses, IPv6 addresses, and autonomous system numbers. This process is managed through the PTI from IANA and involves a unique mechanism for coordinating the distribution of resources.
