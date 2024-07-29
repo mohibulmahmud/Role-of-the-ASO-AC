@@ -45,7 +45,7 @@ The ASO is essentially equivalent to the NRO (Number Resource Organization). The
 
 ![image](https://github.com/user-attachments/assets/0b42b0fa-8a4a-44e7-a620-a787496be6ee)
 
-
+Source: https://labs.ripe.net/media/images/ASOinICANN.width-1536.jpg
 
 ## Global Policy Development
 
